@@ -6,4 +6,4 @@ Welcome to my public profile! This includes examples of [Certificates of Complet
 
 Those badges show that I have completed the online courses for [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line), [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor), [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git) and [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html).
 
-Learn Enough tutorials complete: 3/9
+Learn Enough tutorials complete: 4/9
